@@ -18,7 +18,7 @@ The raw data can be processed to generate time-value
 Factors:
 Rank homeowners based on home value / job => income
 Predict trends for home sales (prospective clients / advertisement targets) using:
-# of Houses listed
+num of Houses listed
 Neighborhood comps
 Asking prices
 Market values
